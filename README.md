@@ -2,7 +2,7 @@
 
 modern AI for beginners
 
-- 目前暂定的路线主要有如下两个分支，这两个分支统一来说，这是我对现代式 ai 的理解，然后在 multi modality 处汇合；
+- 目前暂定的路线主要有如下两个分支，这两个分支统一来说都属于 Generative AI（生成式AI），这是我对现代式 ai 的理解，然后在 multi modality 处汇合；
     - transformer based LLMs
     - diffusion models
     - multi modality
