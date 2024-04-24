@@ -23,6 +23,6 @@ modern AI for beginners
  
 ## tutorials based resources
 
-- [Natural Language Processing with Transformers]('./pdfs/Natural Language Processing with Transformers-2022-英文版.pdf')
+- [Natural Language Processing with Transformers](./pdfs/Natural_Language_Processing_with_Transformers-2022-en.pdf)
 - 强化学习篇
     - [王树森 DRL](https://github.com/wangshusen/DRL)
