@@ -24,9 +24,12 @@ modern AI for beginners
 主要是我在 B 站的三个系列
 
 - [BERT、T5、GPT](https://space.bilibili.com/59807853/channel/collectiondetail?sid=496538)
+    - 语言模型的基础
 - [personal chatgpt](https://space.bilibili.com/59807853/channel/collectiondetail?sid=1373266)
+    - 大语言模型的全新范式
 - [pytorch distributed](https://space.bilibili.com/59807853/channel/collectiondetail?sid=1384251)
-
+    - 多级多卡分布式的基础
+  
 ## diffusion models
 
 
@@ -35,6 +38,10 @@ modern AI for beginners
 > 软件工程是复杂性管理的艺术；
 > 但显然对于现代式人工智能而言，软件工程是工具是手段，而非目标；
 
+- 我的 B 站系列
+    - [全栈算法工程师](https://space.bilibili.com/59807853/channel/collectiondetail?sid=621084)
+    - [软硬件知识](https://space.bilibili.com/59807853/channel/collectiondetail?sid=1280159)
+- 代码好味道坏味道：[重构（第2版）](https://douban.com/book/subject/30468597/)
 
  
 ## tutorials based resources
