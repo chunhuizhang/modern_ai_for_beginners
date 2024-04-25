@@ -2,12 +2,19 @@
 
 modern AI for beginners
 
-- 目前暂定的路线主要有如下两个分支，这两个分支统一来说都属于 Generative AI（生成式AI），这是我对现代式 ai 的理解，然后在 multi modality 处汇合；
+- 目前暂定的路线主要有如下两个分支，这两个分支统一来说都属于 Generative AI（生成式AI，也是某种形式的大一统），这是我对现代式 ai 的浅显理解，然后在 multi modality 处汇合；
     - transformer based LLMs
     - diffusion models
     - multi modality
-- 技术栈上主要是围绕 PyTorch 展开
+
+## PyTorch 与深度学习基础
+
+- 技术栈上主要是围绕 PyTorch 展开，如下我的 B 站系列（可能是最早稳定的一个）
     - [经典神经网络模型拓扑结构（pytorch）](https://space.bilibili.com/59807853/channel/collectiondetail?sid=446911)
+
+- 深度学习
+    - [Dive into Deep Learning](https://d2l.ai/)
+        - 如果没有路径依赖果断选择 pytorch 版；
 
 ## Transformers based LLMs
 
