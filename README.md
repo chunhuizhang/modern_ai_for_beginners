@@ -52,3 +52,6 @@ modern AI for beginners
 - 强化学习篇
     - [openai 强化学习概念拾遗](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
     - [王树森 DRL](https://github.com/wangshusen/DRL)
+- [Neural Network: Zero to hearo](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&ab_channel=AndrejKarpathy) - Andrej Karpathy 制作的系列视频, 带你从 0 开始构造自己的 nanaGPT
+- [Practical Deep Learning for Coders](https://course.fast.ai/) - Jeremy Howard (Kaggel 创始人) 制作的系列课程, 从应用预训练模型开始, 自顶
+向下介绍深度学习, 适合有软件开发经验的人入门
