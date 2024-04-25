@@ -9,6 +9,8 @@ modern AI for beginners
     - transformer based LLMs
     - diffusion models
     - multi modality
+- 似乎目前越来越强的一个趋势，现代式人工智能越来越演变为一种复杂的大数据、深度学习为核心的复杂计算机科学系统工程的艺术；
+    - 对一个人全面性的要求越来越高，但要分清主线和支线，支线仅是工具辅助支撑而已； 
 
 ## PyTorch 与深度学习基础
 
