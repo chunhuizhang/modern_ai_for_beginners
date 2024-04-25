@@ -1,8 +1,11 @@
 # modern_ai_for_beginners
 
+> 我一直想在我的所有的B站系列视频想传递的一个概念是，既要懂实现，也要懂原理，或者反过来，不仅要懂原理，也要会实现；
+> 原理与实践二者互为表里，不可分割。
+
 modern AI for beginners
 
-- 目前暂定的路线主要有如下两个分支，这两个分支统一来说都属于 Generative AI（生成式AI，也是某种形式的大一统），这是我对现代式 ai 的浅显理解，然后在 multi modality 处汇合；
+- 目前暂定的路线主要有如下两个分支，这两个分支统一来说都属于 Generative AI（生成式AI，也是某种形式的大一统），这是我对现代式 ai 的最直白最浅显的理解，然后在 multi modality 处汇合；
     - transformer based LLMs
     - diffusion models
     - multi modality
@@ -25,6 +28,12 @@ modern AI for beginners
 - [pytorch distributed](https://space.bilibili.com/59807853/channel/collectiondetail?sid=1384251)
 
 ## diffusion models
+
+
+## 软件工程与全栈
+
+> 软件工程是复杂性管理的艺术；
+> 但显然对于现代式人工智能而言，软件工程是工具是手段，而非目标；
 
 
  
