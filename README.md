@@ -50,4 +50,5 @@ modern AI for beginners
 
 - [Natural Language Processing with Transformers](./pdfs/Natural_Language_Processing_with_Transformers-2022-en.pdf)
 - 强化学习篇
+    - [openai 强化学习概念拾遗](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
     - [王树森 DRL](https://github.com/wangshusen/DRL)
