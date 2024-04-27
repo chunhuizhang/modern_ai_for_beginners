@@ -12,10 +12,21 @@ modern AI for beginners
 - 似乎目前越来越强的一个趋势，现代式人工智能越来越演变为一种复杂的大数据、深度学习为核心的复杂计算机科学系统工程的艺术；
     - 对一个人全面性的要求越来越高，但要分清主线和支线，支线仅是工具辅助支撑而已； 
 
-## PyTorch 与深度学习基础
+## PyTorch、深度学习基础、数学基础
 
 - 技术栈上主要是围绕 PyTorch 展开，如下我的 B 站系列（可能是最早稳定的一个）
     - [经典神经网络模型拓扑结构（pytorch）](https://space.bilibili.com/59807853/channel/collectiondetail?sid=446911)
+
+- 数学基础，如下我的 B 站系列
+    - [深度学习的数学基础](https://space.bilibili.com/59807853/channel/collectiondetail?sid=462509)
+    - 目前我对数学基础的理解，
+        - 矩阵分析；比较直观简单，拿来即用；
+            - 矩阵矢量乘法，矩阵求逆；
+            - 矩阵分解：奇异值分解；
+        - 数值优化方法；（这两块的工具都比较成熟，大体了解下 solver 即可）
+            - 对应torch 中的 optimizer，主要是基于数值优化的 gradient-based 的方法
+        - 主要是概率与数理统计，贝叶斯（我觉得这部分的内容对我来说反而是困难的，因为比较抽象，需要较多的推导，）
+            - 先验（prior），似然（likelihood），后验（posterior）；
 
 - 深度学习
     - [Dive into Deep Learning](https://d2l.ai/)
@@ -27,6 +38,7 @@ modern AI for beginners
 
 - [BERT、T5、GPT](https://space.bilibili.com/59807853/channel/collectiondetail?sid=496538)
     - 语言模型的基础
+    - 一个练习项目：[Neural Network: Zero to hearo](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&ab_channel=AndrejKarpathy) - Andrej Karpathy 制作的系列视频, 带你从 0 开始构造自己的 nanoGPT
 - [personal chatgpt](https://space.bilibili.com/59807853/channel/collectiondetail?sid=1373266)
     - 大语言模型的全新范式
 - [pytorch distributed](https://space.bilibili.com/59807853/channel/collectiondetail?sid=1384251)
@@ -52,5 +64,5 @@ modern AI for beginners
 - 强化学习篇
     - [openai 强化学习概念拾遗](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
     - [王树森 DRL](https://github.com/wangshusen/DRL)
-- [Neural Network: Zero to hearo](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&ab_channel=AndrejKarpathy) - Andrej Karpathy 制作的系列视频, 带你从 0 开始构造自己的 nanoGPT
+
 - [Practical Deep Learning for Coders](https://course.fast.ai/) - Jeremy Howard (Kaggel 创始人) 制作的系列课程, 用自顶向下的方式, 从使用预训练模型开始深入到原理, 适合有软件开发经验的人入门
