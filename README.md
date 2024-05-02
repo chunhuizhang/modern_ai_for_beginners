@@ -63,8 +63,9 @@ modern AI for beginners
 ## tutorials based resources
 
 - [Natural Language Processing with Transformers](./pdfs/Natural_Language_Processing_with_Transformers-2022-en.pdf)
-- 强化学习篇
-    - [openai 强化学习概念拾遗](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
+- 强化学习篇（DRL: Deep Reinforcement Learning）
+    - [DRL 李宏毅](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)
+        - [openai 强化学习概念拾遗](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
     - [王树森 DRL](https://github.com/wangshusen/DRL)
 
 - [Practical Deep Learning for Coders](https://course.fast.ai/) - Jeremy Howard (Kaggel 创始人) 制作的系列课程, 用自顶向下的方式, 从使用预训练模型开始深入到原理, 适合有软件开发经验的人入门
