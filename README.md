@@ -25,6 +25,8 @@ modern AI for beginners
         - 矩阵分析；比较直观简单，拿来即用；
             - 矩阵矢量乘法，矩阵求逆；
             - 矩阵分解：奇异值分解（SVD）；
+            - 矩阵微分：
+                - $(x^TAx)'=2Ax$
         - 数值优化方法；（这两块（优化和矩阵）的工具都比较成熟，大体了解下 solver 即可）
             - 对应torch 中的 optimizer，主要是基于数值优化的 gradient-based 的方法
         - 主要是概率与数理统计，贝叶斯（我觉得这部分的内容对我来说反而是困难的，因为比较抽象，需要较多的推导，）
@@ -63,7 +65,7 @@ modern AI for beginners
 ## tutorials based resources
 
 - [Natural Language Processing with Transformers](./pdfs/Natural_Language_Processing_with_Transformers-2022-en.pdf)
-- 强化学习篇（DRL: Deep Reinforcement Learning）
+- 强化学习篇（DRL: Deep Reinforcement Learning）：李宏毅老师有优先于王树森老师（李宏毅老师符号公式的出发点更主流，王树森老师的推导也很基础，可以辅助帮助理解）
     - [DRL 李宏毅](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)
         - [openai 强化学习概念拾遗](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
     - [王树森 DRL](https://github.com/wangshusen/DRL)
