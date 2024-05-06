@@ -24,6 +24,9 @@ modern AI for beginners
 - 数学基础，如下我的 B 站系列
     - [深度学习的数学基础](https://space.bilibili.com/59807853/channel/collectiondetail?sid=462509)
     - 目前我对数学基础的理解，
+        - （多元函数，multivariabel）微积分
+            - 多元函数微分通向矩阵，jacobian & hessian matrix；
+              
         - 矩阵分析；比较直观简单，拿来即用；
             - 矩阵矢量乘法，矩阵求逆；
             - 矩阵分解：奇异值分解（SVD）；
