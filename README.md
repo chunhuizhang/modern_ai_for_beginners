@@ -52,7 +52,12 @@ modern AI for beginners
     - 大语言模型的全新范式
 - [pytorch distributed](https://space.bilibili.com/59807853/channel/collectiondetail?sid=1384251)
     - 多级多卡分布式的基础
-  
+
+## RL4LLM
+
+- [DRL](https://space.bilibili.com/59807853/channel/collectiondetail?sid=908186)
+- [RL4LLM](https://space.bilibili.com/59807853/channel/collectiondetail?sid=4048984)
+
 ## diffusion models
 
 
